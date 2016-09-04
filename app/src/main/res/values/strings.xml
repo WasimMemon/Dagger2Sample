@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dagger2sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_noInternet">Oops ! \nIt seems you are not connected with internet...</string>
+    <string name="msg_generic_server_down" translatable="false">Oops, we seem to be experiencing heavy traffic on our server. Please try again later</string>
+    <string name="msg_generic_error" translatable="false">Sorry! It appears that we are offline. Content and images may not display until we reconnect to the Internet.</string>
+    <string name="msg_noData">No Data Found</string>
+</resources>

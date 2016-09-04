@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        revision="24.0.1"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\javawriter-2.1.1-33f40c9b63447709356b46d59e77dd3157ec7061.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.0-9ce5e82d85a6d9647b09a62e20e795c8cafc72c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        revision="24.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\hamcrest-core-1.3-82a137e0c35a99dcde5ddbad3dfb5e71cce6276b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        revision="24.0.1"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\classes-7a01e58e2849c9fc066a509d25aca6e9a794f4ba.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.0-7954213f4db6d556e51c8bd4027b6b4fb0a23bd2.jar" />
+    </item>
+    <item
+        jar="F:\Android\android-sdk-windows\platforms\android-24\android.jar"
+        revision="24.0.1"
+        sha1="1311cbfaf9f46b5700b213534bccdc789794b057">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-4f27412198b80118876e139832f54bd8ae896b15.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.5\jars\classes.jar"
+        revision="24.0.1"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\classes-cab209e27c6019a7de23d14678a602cfb23a6014.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        revision="24.0.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\javax.annotation-api-1.2-4e0abed1c41bcb73dd58fd9fab0983289b01fe8a.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="1ac5b6d36ed6d2e0b6b6e6909bc4e1fb86cf1923">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e47bfb99c897ea7a48746ead0aa080657e581bd3.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.1.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-622169b1c68e4bac0e39bbf38f504175786a3527.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4714e5ff5fe197e87f6ba690d996cdb16b0d74a1.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c0157a8d430c11d5dc8c5045b06ebd9b38d6fe40.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a97fbdb32a06f6983fe195a079d6c2c80fdbf2bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.6\a2e0fb833ba928689fb8b8d9cc92a81298da7c37\dagger-2.6.jar"
+        revision="24.0.1"
+        sha1="a2e0fb833ba928689fb8b8d9cc92a81298da7c37">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\dagger-2.6-142678e91f4cecd1910911422802aa28c7b01862.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.2\jars\classes.jar"
+        revision="24.0.1"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\classes-0188b06736b380083c423f1bf07b559afc746aef.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        revision="24.0.1"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7a9c5239c7909a2bd7cd36e5b68e83bb4198a3c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        revision="24.0.1"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\butterknife-annotations-8.1.0-1e0cf2cb6b535e6fabf7f5b20d7eb36186c3cf81.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-baf991ddfd31a0c71a6b5d6451610df2c128591c.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.0-299e66bf675f0aa853591fad7fcd26d0449789ee.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-38ad99b5a712be913b9e8d377922b1d017a7d6cd.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d04dc1b9090de1df57c1b2b802a282fee045ddd6.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-41da69b7459d0cb01e9f69db3f73ce2be2bdfc32.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\jars\classes.jar"
+        revision="24.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4ee63d0b0686f89a7c7ebfcc80aa34fe5bf65d73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\javax.inject-1-e43f42d67809fdb1df476049a7f68e9c2c66d739.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-87484c52d614264cb3042b28d91a2e4976069c24.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.0-e765b49a184ed668eda135c20c88fd5ef8dfb959.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        revision="24.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gson-2.4-ca215963c99bf196f45a1e4841f24922e57b7ddc.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ecd1ebfb5cfc715041c5ce3ff0ab84527b1e603f.jar" />
+    </item>
+    <item
+        jar="F:\Android\android-sdk-windows\platforms\android-24\optional\org.apache.http.legacy.jar"
+        revision="24.0.1"
+        sha1="b633f2991f9d792d29d23312229f27850f519544">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-6ff1fd9bd3b08b69da7f938ab9bad352c6947aa6.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.0-c12b89f1b2d363fdf88c6bbb3211914e21edf967.jar" />
+    </item>
+    <item
+        jar="F:\Android\android-sdk-windows\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        revision="24.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.0-alpha7-3fa4730e7f8abaca7327737b74e436c836d05454.jar" />
+    </item>
+    <item
+        jar="F:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-24.2.0-bf3409dd45ce88c89eb28a905211a86c429f3e73.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-68c8e3fe4461dbe2d5e8ffceb9a7a3274c5e5a79.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.2\jars\classes.jar"
+        revision="24.0.1"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\classes-d21b65239b9b5e0ee55da3c9d35efa57dfb7c82a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        revision="24.0.1"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\hamcrest-library-1.3-587494080f6a9df962070ff17ed3a9634e2d5fcf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        revision="24.0.1"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\hamcrest-integration-1.3-832bd7cf3a4ee6e3c54488ec250f8ff95b76ebd8.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
+        revision="24.0.1"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\classes-6f452089a64b5b30bb8151bc66b36cd089184e1e.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-07ea8c50fffaf14c9dc719f0dc2557af4b32b84e.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d78a675755df16d6dcf7613a9049ec58411cea67.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        revision="24.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-39d9d05e2a0ac4d737050083c6e893a3b86166e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        revision="24.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\junit-4.12-e235eeed9b4f868ae622fa4685a57e1f6d16f470.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wasim\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        revision="24.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\AndroidStudioProjects\Dagger2Sample\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\jsr305-2.0.1-e494861e141e2bc17e666daa5fad9dab6ae75653.jar" />
+    </item>
+
+</items>

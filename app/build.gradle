@@ -1,0 +1,86 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.1"
+    defaultConfig {
+        applicationId "com.androprogrammer.dagger2sample"
+        minSdkVersion 17
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        jackOptions{
+            enabled true
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            debuggable true
+            applicationIdSuffix '.debug'
+            versionNameSuffix 'd'
+        }
+    }
+    dexOptions {
+        preDexLibraries true
+//        incremental true
+        javaMaxHeapSize "2g"
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+        incremental false
+    }
+}
+
+ext {
+    supportLibVersion = '24.2.0'
+    playServiceLibVersion = '8.4.0'
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    //testCompile 'junit:junit:4.12'
+
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    // For compatibility
+    compile "com.android.support:support-v4:${supportLibVersion}"
+    compile "com.android.support:appcompat-v7:${supportLibVersion}"
+    compile "com.android.support:design:${supportLibVersion}"
+    compile "com.android.support:palette-v7:${supportLibVersion}"
+    compile "com.android.support:recyclerview-v7:${supportLibVersion}"
+    compile "com.android.support:cardview-v7:${supportLibVersion}"
+
+    // For constraint-layout
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
+
+    // For di dagger2
+    //provided 'javax.annotation:jsr250-api:1.0'
+    compile 'com.google.dagger:dagger:2.6'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.6'
+
+    // For view injection Butter knife
+    compile 'com.jakewharton:butterknife:8.1.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.1.0'
+
+    // For Text drawable
+    compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
+
+    // For Rounded Image view
+    //compile 'com.makeramen:roundedimageview:2.2.1'
+
+    // For service request
+    compile 'com.android.volley:volley:1.0.0'
+
+    // For json parsing
+    compile 'com.google.code.gson:gson:2.4'
+}
